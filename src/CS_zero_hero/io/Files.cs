@@ -19,7 +19,7 @@
 using System;
 using System.IO;
 
-namespace CS_Zero_Hero._09_io
+namespace CS_Zero_Hero.io
 {
     internal class IO
     {

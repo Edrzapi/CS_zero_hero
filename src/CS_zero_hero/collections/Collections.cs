@@ -19,7 +19,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace CS_Zero_Hero._06_collections
+namespace CS_Zero_Hero.collections
 {
     internal class Collections
     {

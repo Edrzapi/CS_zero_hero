@@ -19,7 +19,7 @@
 using System;
 using System.IO;
 
-namespace CS_Zero_Hero._10_exceptions
+namespace CS_Zero_Hero.exceptions
 {
     internal class Exceptions
     {

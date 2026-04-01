@@ -49,19 +49,19 @@ Each module has its own `Main()` method. To run a specific module, temporarily s
 ```
 src/
 ├── CS_zero_hero/
-│   ├── 01_fundamentals/         # .NET platform, compilation, project structure
-│   ├── 02_datatypes/            # Value types, reference types, nullable, boxing
-│   ├── 03_operators/            # Arithmetic, logical, comparison, ternary
-│   ├── 04_control_flow/         # if/else, switch, loops, break/continue
-│   ├── 06_iteration/            # for, while, foreach, IEnumerator, yield
-│   ├── 07_collections/          # List, Dictionary, Queue, Stack, HashSet
-│   ├── 08_string_manipulation/  # Substring, split, join, replace, parsing
-│   ├── 09_IO/                   # File read/write, StreamReader/Writer, paths
-│   ├── 10_exceptions/           # try/catch/finally, custom exceptions, EAFP/LBYL
-│   ├── 11_oop_basics/           # Classes, properties, static members, four pillars
-│   ├── 17_LINQ/                 # Query syntax, method syntax, filtering, grouping
-│   ├── 20_WPF_basics/           # Window controls, events, layout
-│   ├── Tasks/                   # Hands-on exercises for each module
+│   ├── basics/                  # .NET platform, compilation, project structure
+│   ├── datatypes/               # Value types, reference types, nullable, boxing
+│   ├── operators/               # Arithmetic, logical, comparison, ternary
+│   ├── control_flow/            # if/else, switch, break/continue
+│   ├── iteration/               # for, while, foreach, IEnumerator, yield
+│   ├── collections/             # List, Dictionary, Queue, Stack, HashSet
+│   ├── string_manipulation/     # Substring, split, join, replace, parsing
+│   ├── io/                      # File read/write, StreamReader/Writer, paths
+│   ├── exceptions/              # try/catch/finally, custom exceptions, EAFP/LBYL
+│   ├── oop/                     # Classes, properties, static members, four pillars
+│   ├── linq/                    # Query syntax, method syntax, filtering, grouping
+│   ├── wpf/                     # Window controls, events, layout
+│   ├── tasks/                   # Hands-on exercises for each module
 │   ├── Program.cs               # Entry point
 │   └── CS_zero_hero.csproj      # Project configuration (.NET 8)
 ├── CS_zero_heroTests/

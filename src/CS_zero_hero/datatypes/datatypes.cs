@@ -10,7 +10,7 @@
 
 using System;
 
-namespace CS_Zero_Hero._02_datatypes
+namespace CS_Zero_Hero.datatypes
 {
     internal class DataTypes
     {

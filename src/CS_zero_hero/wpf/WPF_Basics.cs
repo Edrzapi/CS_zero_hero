@@ -30,7 +30,7 @@ using System.Windows.Input;       // Keyboard/mouse input events (optional for a
 using System.Windows.Media;       // Colours, brushes, and drawing elements
 using System.Windows.Shapes;      // For shapes like Rectangle, Ellipse, Line (optional)
 
-namespace CS_Zero_Hero._13_wpf_basics
+namespace CS_Zero_Hero.wpf
 {
     // -------------------------------------------------------------------------------------------------
     // ENTRY POINT — WPF Application

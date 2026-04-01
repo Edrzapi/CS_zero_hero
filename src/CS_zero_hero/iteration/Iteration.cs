@@ -21,7 +21,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 
-namespace CS_Zero_Hero._05_iteration
+namespace CS_Zero_Hero.iteration
 {
     internal class Iteration
     {

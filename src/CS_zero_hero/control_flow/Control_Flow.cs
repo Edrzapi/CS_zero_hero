@@ -17,7 +17,7 @@
 
 using System;
 
-namespace CS_Zero_Hero._04_controlflow
+namespace CS_Zero_Hero.control_flow
 {
     internal class ControlFlow
     {

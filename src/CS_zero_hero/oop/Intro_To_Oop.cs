@@ -19,7 +19,7 @@
 
 using System;
 
-namespace CS_Zero_Hero._11_oop_basics
+namespace CS_Zero_Hero.oop
 {
     internal class OOP_Basics
     {

@@ -19,7 +19,7 @@ using System;
 using System.Text;
 using System.Globalization;
 
-namespace CS_Zero_Hero._08_stringmanip_task
+namespace CS_Zero_Hero.tasks.string_manipulation
 {
     internal class StringManipTask
     {

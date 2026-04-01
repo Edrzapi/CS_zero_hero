@@ -24,7 +24,7 @@ using System;
 using System.IO;
 using System.Text;
 
-namespace CS_Tutorial
+namespace CS_Zero_Hero.tasks.exceptions
 {
     internal class Program
     {

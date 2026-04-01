@@ -18,7 +18,7 @@ using System;
 using System.Collections.Generic;
 using System.Drawing;   // For Point & Color
 
-namespace InheritanceLab
+namespace CS_Zero_Hero.tasks.inheritance_lab
 {
     // ==================================================
     // Step 3: Define the base class Shape

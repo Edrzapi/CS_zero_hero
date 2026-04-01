@@ -273,7 +273,7 @@
 
 using System;
 
-namespace CS_Zero_Hero._01_fundamentals
+namespace CS_Zero_Hero.basics
 {
     internal class Fundamentals
     {

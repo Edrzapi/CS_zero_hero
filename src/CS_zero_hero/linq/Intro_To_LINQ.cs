@@ -20,7 +20,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;  // Required for LINQ extensions
 
-namespace CS_Zero_Hero._12_linq
+namespace CS_Zero_Hero.linq
 {
     internal class LinqDemo
     {

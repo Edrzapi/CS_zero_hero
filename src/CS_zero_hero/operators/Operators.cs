@@ -21,7 +21,7 @@
 
 using System;
 
-namespace CS_Zero_Hero._03_operators
+namespace CS_Zero_Hero.operators
 {
     internal class Operators
     {

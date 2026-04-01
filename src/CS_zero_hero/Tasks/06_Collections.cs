@@ -20,7 +20,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace CS_Zero_Hero._07_collections_task
+namespace CS_Zero_Hero.tasks.collections
 {
     internal class CollectionsTask
     {

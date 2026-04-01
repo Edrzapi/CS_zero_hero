@@ -21,7 +21,7 @@ using System;
 using System.Text;
 using System.Globalization;
 
-namespace CS_Zero_Hero._08_string_manipulation
+namespace CS_Zero_Hero.string_manipulation
 {
     internal class StringManipulation
     {

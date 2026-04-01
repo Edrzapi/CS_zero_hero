@@ -1,4 +1,4 @@
-﻿namespace CS_zero_hero
+﻿namespace CS_Zero_Hero
 {
     class Program
     {
